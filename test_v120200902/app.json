@@ -1,0 +1,22 @@
+{
+  "pages":[
+    "pages/list/list",
+    "pages/list/imgshow/imgshow",
+    "pages/partner/partner",
+    "pages/more/more",
+    "pages/home/home",
+    "pages/gradient/gradient",
+    "pages/filter/filter",
+    "pages/transform/transform",
+    "pages/common/common"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#1772cb",
+    "navigationBarTitleText": "云开发技术训练营",
+    "navigationBarTextStyle":"white",
+    "navigationStyle":"custom"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
